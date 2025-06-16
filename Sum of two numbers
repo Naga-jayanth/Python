@@ -1,0 +1,8 @@
+x=int(input("enter a number:"))
+y=int(input("enter a number:"))
+z=x+y
+print("sum of two numbers:",z)
+Output:
+enter a number:2
+enter a number:3
+sum of two numbers:5
