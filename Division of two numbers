@@ -1,0 +1,13 @@
+n=int(input ("enter a number"))
+x=int(input("entrer a number"))    
+print("division of two numbers is",n/x)
+output:
+enter a number
+225
+entrer a number
+200000
+division of two numbers is 0.001125
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
