@@ -1,0 +1,17 @@
+n1=int(input("enter amarks"))
+if(n1>90):
+    print("a grade")
+elif((n1>50)and(n1<90)):
+    print("b grade")
+elif((n1>35)and(n1<50)):
+    print("c grade")
+else:
+    print("fail")
+output
+enter amarks
+40
+c grade
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
