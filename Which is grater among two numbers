@@ -1,0 +1,16 @@
+n=float(input("enter a number"))
+x=int (input("enter a number"))
+if n<x:
+    print("x is grater:x")
+else:
+    print("n is grater")
+output
+enter a number
+2012.02
+enter a number
+2012
+n is grater
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
