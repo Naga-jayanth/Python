@@ -1,0 +1,39 @@
+x1=int (input("enter a number1:"))
+x2=int (input("enter a number2:"))
+x3=int (input("enter a number3:"))
+x4=int (input("enter a number4:"))
+if x1>x2:
+    if x2>x3:
+        if x3>x4:
+            print("x is big")
+        else:
+            print("x4 is big")
+        if x3>x4:
+            print ("x3 is big")
+        else:
+            print("x4 is big")
+else:
+    if x2>x3:
+        if x2>x4:
+            print("x2 is big")
+        else:
+            print("x4 is big")
+    else:
+        if x3>x4:
+            print("x3 is big")
+        else:
+            print("x4 is big")
+output
+enter a number1:
+5
+enter a number2:
+6
+enter a number3:
+16
+enter a number4:
+420
+x4 is big
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
