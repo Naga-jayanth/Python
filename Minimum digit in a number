@@ -1,0 +1,15 @@
+n=int(input ("enter a number:"))
+min=n%10
+while n>0:
+    r=n%10
+    if min>r:
+        min=r
+    n=n//10
+print("min number:",min)
+output
+enter a number:9865324711    
+min number: 1
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
