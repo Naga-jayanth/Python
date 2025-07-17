@@ -1,0 +1,15 @@
+n=int(input ("enter a number:"))
+mx=0
+while n>0:
+    r=n%10
+    if mx<r:
+        mx=r
+    n=n//10
+print("maximum number:",mx)
+output
+enter a number:12458326479
+max number: 9
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
