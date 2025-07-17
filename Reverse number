@@ -1,0 +1,14 @@
+n=int(input ("enter a number:"))
+rev=0
+while n>0:
+    r=n%10
+    rev=rev*10+r
+    n=n//10
+print("reverse number:",rev)
+output
+enter a number:123456
+reverse number: 654321
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
